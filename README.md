@@ -1,0 +1,2 @@
+# mystudygit
+first use git
